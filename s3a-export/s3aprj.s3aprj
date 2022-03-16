@@ -1,0 +1,5 @@
+table-cfg: {}
+annotation-format: csv
+plugin-cfg: {}
+startup:
+  image: new_mod.jpg
